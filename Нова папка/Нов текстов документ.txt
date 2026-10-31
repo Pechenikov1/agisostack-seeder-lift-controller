@@ -1,0 +1,25 @@
+Да — това са обикновени текстови файлове, не “код”. Те се създават в папките на твоя проект.
+
+Така е структурата:
+
+D:\documents\agisostack-seeder-lift-controller
+├── readme.md ├── docs
+│ ├── architecture.md │ ├── requirements.md │ └── reference-notes.md ├── firmware
+│ └── esp32
+├── hardware
+├── reference
+│ └── AgIsoStack-plus-plus
+│ └── examples
+│ └── seeder_example\
+
+Това означава:
+
+    root папка = твоя проект
+    docs/ = документи
+    firmware/ = код
+    hardware/ = електроника / връзки
+    reference/ = чужди примери, които използваш за справка
+
+сега точно какво да направиш:
+
+    отиди в проекта
